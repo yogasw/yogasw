@@ -1,6 +1,6 @@
 ### Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">
 
-![](https://visitor-badge.glitch.me/badge?page_id=naandalist.naandalist)
+![](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=arioki1&color=55acb7&style=for-the-badge&logo=Github)
 
 I'm Yoga Setiawan, a Mobile Developer 🚀 from Yogyakarta Indonesia, currently, I'm working in  <a href="http://qiscus.com"><img id="im" src="https://www.qiscus.com/v3/images/logos/qiscus.svg" width="100px" alt="Qiscus"></a>
 
